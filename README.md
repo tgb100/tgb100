@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm *Tsangchup Gyatso Bhutia, a B.Tech Computer Science student at **VIT Bhopal University*, India.  
+I'm Tsangchup Gyatso Bhutia, a B.Tech Computer Science student at **VIT Bhopal University*, India.  
 I build fast, functional, and user-focused web experiences.
 
 
