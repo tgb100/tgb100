@@ -9,5 +9,5 @@ I build fast, functional, and user-focused web experiences.
 ## 📬 Let's Connect!
 
 - 📧 *Email*: bhutiatsangchup@gmail.com
-- 💼 *LinkedIn*: [linkedin.com/in/tsangchup](https://www.linkedin.com/in/tsangchup/))
+- 💼 *LinkedIn*: [linkedin.com/in/tsangchup](https://www.linkedin.com/in/tsangchup/)
 - 💻 *LeetCode*: [leetcode.com/u/tgb100](https://leetcode.com/u/tgb100/)
