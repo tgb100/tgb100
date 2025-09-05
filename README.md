@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Tsangchup%20Gyatso%20Bhutia&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Fast,%20Functional%20%26%20User-Focused%20Experiences&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tsangchup%20Gyatso%20Bhutia&fontSize=35&fontColor=fff)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;B.Tech+CS+%40+VIT+Bhopal+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=450&lines=Computer+Science+Student;Web+Developer;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -76,31 +76,6 @@
 
 <div align="center">
   
-  ## 📊 GitHub Analytics
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tsangchup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tsangchup&theme=tokyonight&hide_border=true" />
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsangchup&layout=compact&theme=tokyonight&hide_border=true" />
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsangchup&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f0ffff&area=true&hide_border=true)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ## 🏆 Achievements & Highlights
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=tsangchup&theme=tokyonight&no-frame=true&column=4" />
-  
-</div>
-
----
-
-<div align="center">
-  
   ## 🎯 Current Focus
   
   <table>
@@ -111,11 +86,11 @@
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" height="100">
-        <br><strong>Building</strong><br>Full-Stack Applications
+        <br><strong>Building</strong><br>Digital Skeptic AI
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" height="100">
-        <br><strong>Exploring</strong><br>AI/ML Integration
+        <br><strong>Exploring</strong><br>TypeScript & Node.js
       </td>
     </tr>
   </table>
@@ -131,10 +106,11 @@
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
   - 🌱 Currently diving deep into **React Advanced Patterns**
-  - 🔭 Working on **innovative web applications** 
+  - 🔭 Working on **Digital Skeptic AI** project
   - 💬 Ask me about **JavaScript, React, or UI/UX Design**
   - 🎯 2024 Goal: **Contribute to major open source projects**
-  - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!** 🧩
+  - 🏊‍♂️ **Extracurriculars**: Swimming (District 2nd), Rifle Shooting (Inter-school 3rd), Athletics (Best Athlete)
+  - 🇯🇵 Learning **Japanese** out of curiosity and cultural interest
   - 🎮 When not coding: **Gaming, Reading Tech Blogs, or Sketching**
   
 </div>
@@ -154,30 +130,6 @@
   <a href="https://leetcode.com/u/tgb100">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=tsangchup&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
-  
-</div>
-
----
-
-<div align="center">
-  
-  ## 🎵 Currently Vibing To
-  
-  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify/?background_color=1a1b27&border_color=70a5fd)](https://open.spotify.com/user/31l77y3agk75wbork4jbx4aav4ke)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ## 🐍 Watch My Contributions Get Eaten!
-  
-  ![Snake animation](https://github.com/tsangchup/tsangchup/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
@@ -202,7 +154,3 @@
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
   
 </div>
-
-<!-- Optional: Add this to generate the snake animation -->
-<!-- You'll need to set up GitHub Actions for the snake animation to work -->
-<!-- Create .github/workflows/snake.yml in your profile repository -->
