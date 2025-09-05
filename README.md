@@ -185,9 +185,9 @@
 
 <div align="center">
   
-  ## 💭 Developer Quote
+  ## 💭 Quote
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  *"The best way to predict the future is to invent it."* - Alan Kay
   
 </div>
 
