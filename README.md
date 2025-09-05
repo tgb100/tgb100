@@ -9,7 +9,7 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**
+- ⭐ currently working on the intersection of full-stack engineering, AI implementation, and cybersecurity.
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
